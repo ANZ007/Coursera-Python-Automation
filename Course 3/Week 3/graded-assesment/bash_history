@@ -1,0 +1,16 @@
+git clone https://github.com/ANZ007/Coursera-GitHub-Assignment.git
+git config --global user.name "Name"
+git config --global user.email "user@example.com"
+cd Coursera-GitHub-Assignment/
+nano README.md
+git status
+git add README.md
+git commit
+git push origin main
+nano example.py
+git add example.py
+git commit
+git push origin main
+git pull origin main
+git push origin main
+exit
