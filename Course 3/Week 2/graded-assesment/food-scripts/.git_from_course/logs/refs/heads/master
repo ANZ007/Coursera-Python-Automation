@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0a202e03e0356d2b5c323e51905d3d06e5e2d0ed Alex Cooper <alex_cooper@gmail.com> 1578472581 +0530	commit (initial): Added file favorite_foods.log that contains list of foods.
+0a202e03e0356d2b5c323e51905d3d06e5e2d0ed 8d5a3189b88d273ef08286e5074b5e38d616da21 Alex Cooper <alex_cooper@gmail.com> 1578472635 +0530	commit: Added file food_count.py that returns a list of each food and the number of times each food appears in favorite_foods.log file.
+8d5a3189b88d273ef08286e5074b5e38d616da21 b8d00e33237b24ea1480c363edd972cf4b49eedf Alex Cooper <alex_cooper@gmail.com> 1578472715 +0530	commit: Added file food_question.py that returns how many others in the list like that same food.
+b8d00e33237b24ea1480c363edd972cf4b49eedf 21cf376832fa6eace35c0bf9e4bae4a3400452e9 Alex Cooper <alex_cooper@gmail.com> 1578472779 +0530	commit: Rename item variable to food_item.
+21cf376832fa6eace35c0bf9e4bae4a3400452e9 d3457da90260e55b8935def4db93e57575b2d2a5 ANZ007 <arviandri.nz@gmail.com> 1615810365 +0000	merge improve-output: Fast-forward

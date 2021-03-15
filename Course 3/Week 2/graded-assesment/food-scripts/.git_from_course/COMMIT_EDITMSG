@@ -1,0 +1,10 @@
+Revert "Rename item variable to food_item."
+
+This reverts commit 21cf376832fa6eace35c0bf9e4bae4a3400452e9.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch improve-output
+# Changes to be committed:
+#	modified:   food_question.py
+#

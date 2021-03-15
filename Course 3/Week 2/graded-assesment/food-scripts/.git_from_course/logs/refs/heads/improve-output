@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 21cf376832fa6eace35c0bf9e4bae4a3400452e9 ANZ007 <arviandri.nz@gmail.com> 1615810080 +0000	branch: Created from master
+21cf376832fa6eace35c0bf9e4bae4a3400452e9 1ead5bfade3957bcb8a33fd0b6a5308326277f57 ANZ007 <arviandri.nz@gmail.com> 1615810208 +0000	commit: Adding a line in the output describing the utility of food_count.py script
+1ead5bfade3957bcb8a33fd0b6a5308326277f57 d3457da90260e55b8935def4db93e57575b2d2a5 ANZ007 <arviandri.nz@gmail.com> 1615810302 +0000	revert: Revert "Rename item variable to food_item."
