@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 ba96efb119679d5c3ea4d8c593f354422bf4b4f8 student-00-d071585c6bac <student-00-d071585c6bac@linux-instance.us-central1-a.c.qwiklabs-gcp-00-f991e2689392.internal> 1615822828 +0000	clone: from https://github.com/ANZ007/it-cert-automation-practice.git
+ba96efb119679d5c3ea4d8c593f354422bf4b4f8 ba96efb119679d5c3ea4d8c593f354422bf4b4f8 ANZ007 <arviandri.nz@gmail.com> 1615822914 +0000	checkout: moving from master to improve-username-behavior
+ba96efb119679d5c3ea4d8c593f354422bf4b4f8 517e9fae8fad65cee98cabbbd0e13c0d47e5cf2d ANZ007 <arviandri.nz@gmail.com> 1615823006 +0000	commit: Closes: #1
